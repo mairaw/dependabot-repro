@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Uploader.DotnetCoreReleaseData": {
+      "commandName": "Project",
+      "commandLineArgs": "--metadata-directory \"C:\\Users\\mairaw\\Documents\\GitHub\\core\\release-notes\""
+    }
+  }
+}

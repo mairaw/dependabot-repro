@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Website.Resources.Upload": {
+      "commandName": "Project",
+      "commandLineArgs": "--resource-directory \"C:\\Users\\mairaw\\Documents\\GitHub\\website-resources\""
+    }
+  }
+}
